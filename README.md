@@ -1,4 +1,4 @@
-# HPE-CogVLM: New Head Pose Grounding Task Exploration on Vision Language Model
+# HPE-CogVLM
 
 
 Paper is under review and codes will be released soon.
